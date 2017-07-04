@@ -1,0 +1,21 @@
+{
+  "name": "lab-financial-data-graphing",
+  "description": "",
+  "main": "",
+  "authors": [
+    "teddyviking <rtejado90@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/teddyviking/lab-financial-data-graphing",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
